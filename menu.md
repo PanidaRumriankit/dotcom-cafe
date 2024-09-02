@@ -35,3 +35,6 @@
 
 
 ## Beverages
+| Name                    | Description                                                                                                                                                               | Image                                                  | Price |
+|:------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------:|
+| **Sparkling Water**     | Sparkling Water is made by adding carbon dioxide gas to plain water, resulting in a bubbly drink that is both thirst-quenching, mineral-rich, and enjoyable.              | <img src="./images/Appetizer/sparkling.jpg" width=600> |    40 |
