@@ -21,4 +21,4 @@
 
 | Name    | Description                                                                                                                                        |                                             | Price |
 |:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|------:|
-| **Kir** | A classic French cocktail made with dry white wine and a splash of crème de cassis, a blackcurrant liqueur, offering a sweet and refreshing taste. | <img src="images/Soup/kir.jpg" width="600"> |   250 |
+| **Kir** | A classic French cocktail made with dry white wine and a splash of crème de cassis, a blackcurrant liqueur, offering a sweet and refreshing taste. | <img src="images/Soup/Kir.jpg" width="600"> |   250 |
