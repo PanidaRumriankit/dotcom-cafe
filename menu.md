@@ -50,3 +50,9 @@
 | **Marseille-Style Shrimp Stew**             | A hearty shrimp stew with garlic and a French rouille served on toasted baguette slices.          | <img src="images/Entree/entree3.jpeg" width="600"> |   115 |
 | **Duck à l'Orange**                         | Roasted duck served with a tangy orange sauce, offering a sweet and savory flavor combination.    | <img src="images/Entree/entree4.jpeg" width="600"> |   140 |
 | **Julia Child's Favorite Roast Chicken**    | Roast chicken with butter, lemon, and herbs for a juicy, flavorful meal.                          | <img src="images/Entree/entree5.jpeg" width="600"> |   110 |
+
+
+## Beverages
+| Name         | Description |                                                    | Price |
+|:-------------|-------------|----------------------------------------------------|------:|
+| **espresso** |      A modern cafe where technology meets taste, offering a cozy space for coffee lovers to enjoy expertly brewed drinks and delicious food while staying connected.       | <img src="images/Entree/entree6.jpeg" width="600"> |    99 |
