@@ -1,6 +1,45 @@
 ## Menu
 
-[Dessert](#Dessert) | ... | [Beverages](#beverages)
+[Appetizer](#appetizer) | [soup](#Soup) | [Salad](#salad) | |[Dessert](#Dessert) | [entree](#Entree)| [Beverages](#beverages)
+
+## Appetizer
+| Name                    | Description                                                                                                                                                               | Image                                                      | Price |
+|:------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|------:|
+| **Aïoli Provençal**     | French condiment alongside fresh veggies, seafood, or even frites.                                                                                                        | <img src="./images/Appetizer/Grand+Aioli.jpg" width=600>   |    80 |
+| **Brandade**            | Mashed potatoes and salt cod come together to create a creamy, pleasantly salty dip that’s best enjoyed with seasonal crudités or your favorite crackers or crusty bread. | <img src="./images/Appetizer/brande.jpg" width=600>        |   150 |
+| **Carrot Crêpes**       | A colorful and vegetal take on the classic crêpe, these thin, alluring pancakes will impress your party guests with their subtle sweetness and sunny orange hue.          | <img src="./images/Appetizer/carrot_crapes.jpg" width=600> |   100 |
+| **Duck Pâté en Croûte** | Flaky homemade pastry dough and top it with a flavorful gelée                                                                                                             | <img src="./images/Appetizer/duck.jpg" width=600>          |   200 |
+
+## Soup
+| Name                              | Description                                                                                                              |                                               | Price |
+|:----------------------------------|:-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|------:|
+| **French Onion Soup**             | A rich and savory soup with caramelized onions, topped with melted cheese and served with crusty bread.                  | <img src="images/Soup/soup1.png" width="600"> |   120 |
+| **Creamy Butternut Squash Soup**  | A velvety blend of roasted butternut squash, cream, and spices.                                                          | <img src="images/Soup/soup2.png" width="600"> |   110 |
+| **Magical Leek Soup**             | A light and refreshing soup made with leeks, potatoes, and herbs.                                                        | <img src="images/Soup/soup3.png" width="600"> |    90 |
+| **French Lentil Soup**            | A hearty and nutritious soup with green lentils, vegetables, and a touch of herbs.                                       | <img src="images/Soup/soup4.png" width="600"> |   100 |
+| **Broccoli and Blue Cheese Soup** | A creamy soup with broccoli and tangy blue cheese for a bold taste.                                                      | <img src="images/Soup/soup5.png" width="600"> |   115 |
+| **Fancy Cream of Cauliflower**    | A silky-smooth cauliflower soup garnished with fresh herbs and a drizzle of olive oil.                                   | <img src="images/Soup/soup6.png" width="600"> |   105 |
+| **Ratatouille Soup**              | A chunky vegetable soup inspired by the classic French ratatouille.                                                      | <img src="images/Soup/soup7.png" width="600"> |   120 |
+
+## Salad
+<br>
+
+| Name                        | Description                                                                                                                                                                                                                                                                                                                                                                                             |                                          | Price |
+|:----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------:|
+| **Salade de figues**        | Salade de figues is a traditional French salad originating from the region of Languedoc. The salad is usually made with a combination of ripe figs, endive, onions, lemon juice, olive oil, red wine vinegar, salt, pepper, and sugar. The figs are cut into quarters, and then eighths.                                                                                                                | <img src="images/Salad/1.png" width=600> |   110 |
+| **Salade de poulpe**        | Salade de poulpe is a traditional French octopus salad originating from Languedoc. The salad is usually made with a combination of tenderized octopus, potatoes, white wine, onions, fennel, capers, parsley, paprika, salt, pepper, olive oil, and lemon juice.                                                                                                                                        | <img src="images/Salad/2.png" width=600> |   120 |
+| **Salade de saucisse**      | Wurstsalat is a traditional salad from Germany (especially southern parts), Switzerland, Austria, and Alsace in France made with strips of sausage. It's a popular dish often consumed as a light meal in beer gardens or traditional inns, especially during the warm summer months.                                                                                                                   | <img src="images/Salad/3.png" width=600> |   100 |
+| **Salade Landaise**         | Salade Landaise is a traditional French salad originating from the Landes area, famous for its duck and walnuts. The salad is beloved for its contrast of temperatures of the ingredients. It's made with duck breast, gizzards or confit, lettuce leaves, bacon, cherry tomatoes, walnuts, and croutons.                                                                                               | <img src="images/Salad/4.png" width=600> |   120 |
+| **Salade Lyonnaise**        | Salade Lyonnaise consists of endive, bacon, croutons, and a poached egg that is placed on top of it. It originates from the French city of Lyon, and it is one of the most popular salads found on the menus of numerous small French bistros and restaurants.                                                                                                                                          | <img src="images/Salad/5.png" width=600> |   130 |
+
+## Entree
+| Name                                        | Description                                                                                       |                                                    | Price |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------------|----------------------------------------------------|------:|
+| **Ratatouille**                             | A classic French vegetable stew with tomatoes, zucchini, peppers, onions, and eggplant.           | <img src="images/Entree/entree1.jpeg" width="600"> |    99 |
+| **Steak au Poivre with Red Wine Pan Sauce** | A pepper-crusted steak served with a rich, savory red wine sauce.                                 | <img src="images/Entree/entree2.jpeg" width="600"> |   120 |
+| **Marseille-Style Shrimp Stew**             | A hearty shrimp stew with garlic and a French rouille served on toasted baguette slices.          | <img src="images/Entree/entree3.jpeg" width="600"> |   115 |
+| **Duck à l'Orange**                         | Roasted duck served with a tangy orange sauce, offering a sweet and savory flavor combination.    | <img src="images/Entree/entree4.jpeg" width="600"> |   140 |
+| **Julia Child's Favorite Roast Chicken**    | Roast chicken with butter, lemon, and herbs for a juicy, flavorful meal.                          | <img src="images/Entree/entree5.jpeg" width="600"> |   110 |
 
 ## Dessert
 | Name                                                                           | Description                                                                                                                                                                                                                                                                                                                                    |                                                        | Price |
@@ -13,13 +52,11 @@
 | **Raspberry Macarons**                                                         | These are among the simplest classic French macarons, made with only sugar, almond flour, egg whites, red food coloring — and a filling of raspberry jam.                                                                                                                                                                                      | <img src="images/Dessert/macarons.png" width=600>      |   120 |
 
 
-
 ## Beverages
-
-> A table of beverages. Each team member adds one beverage (one row) to the table.
-> Result should be in alphabetical order by beverage name.
 
 | Name       | Description                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                 | Price |
 |:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|------:|
 | Pastis     | Pastis is a very popular anise-flavored liqueur in France, especially in the southern regions of Provence and the Côte d’Azur. It is served cold, making it the perfect summer drink. Pastis is typically consumed diluted with water, which turns the liquid from a clear color to a milky white. French people usually drink it in small glasses, and it is not uncommon for people to add more water or ice cubes as they go.| <img src="images/Dessert/patris.jpg" width=600> | 1,200 | 
+
+
 
