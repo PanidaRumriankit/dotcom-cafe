@@ -2,7 +2,7 @@
 [entree](#Entree) | ... | [Beverages](#beverages)
 
 
-## Japanese Food
+## Entree
 
 
 | Name                                        | Description                                                                                       |                                                    | Price |
