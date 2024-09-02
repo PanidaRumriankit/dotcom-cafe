@@ -7,5 +7,7 @@ Write a one or two sentence description of your cafe.
 | Cuisine              | Contributor |
 |:---------------------|-------------|
 | [Soup](menu.md#Soup) | Nichapat    |
+| [Entree](menu.md#Entree) | Thanchida   |
+
 
 

@@ -1,7 +1,6 @@
 ## Menu
 
-
-[Appetizer](#appetizer) | [soup](#Soup) | [Salad](#salad) | |[Dessert](#Dessert) |  [Beverages](#beverages)
+[Appetizer](#appetizer) | [soup](#Soup) | [Salad](#salad) | |[Dessert](#Dessert) | [entree](#Entree)| [Beverages](#beverages)
 
 ## Appetizer
 | Name                    | Description                                                                                                                                                               | Image                                                      | Price |
@@ -43,8 +42,11 @@
 | Tarte Tatin                                                                   | Tarte Tatin is a French dessert for which apples are caramelized in a skillet with butter and sugar, then topped with a round of pastry dough and baked. Tarte Tatin was named for Stéphanie and Caroline Tatin, who created it at the Hôtel Tatin in Lamotte-Beuvron, France, in the 1880s.                                                   | ![food5](images/Dessert/Tarte_tatin.png) |   160 | 
 | Raspberry Macarons                                                            | These are among the simplest classic French macarons, made with only sugar, almond flour, egg whites, red food coloring — and a filling of raspberry jam.                                                                                                                                                                                      | ![food6](images/Dessert/macarons.png)    |   120 |
 
-
-## Beverages
-
-> A table of beverages. Each team member adds one beverage (one row) to the table.
-> Result should be in alphabetical order by beverage name.
+## Entree
+| Name                                        | Description                                                                                       |                                                    | Price |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------------|----------------------------------------------------|------:|
+| **Ratatouille**                             | A classic French vegetable stew with tomatoes, zucchini, peppers, onions, and eggplant.           | <img src="images/Entree/entree1.jpeg" width="600"> |    99 |
+| **Steak au Poivre with Red Wine Pan Sauce** | A pepper-crusted steak served with a rich, savory red wine sauce.                                 | <img src="images/Entree/entree2.jpeg" width="600"> |   120 |
+| **Marseille-Style Shrimp Stew**             | A hearty shrimp stew with garlic and a French rouille served on toasted baguette slices.          | <img src="images/Entree/entree3.jpeg" width="600"> |   115 |
+| **Duck à l'Orange**                         | Roasted duck served with a tangy orange sauce, offering a sweet and savory flavor combination.    | <img src="images/Entree/entree4.jpeg" width="600"> |   140 |
+| **Julia Child's Favorite Roast Chicken**    | Roast chicken with butter, lemon, and herbs for a juicy, flavorful meal.                          | <img src="images/Entree/entree5.jpeg" width="600"> |   110 |
