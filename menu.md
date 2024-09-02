@@ -1,7 +1,7 @@
 ## Menu
 
 
-[Appetizer](#appetizer) | [Salad](#salad) | ...|[Dessert](#Dessert) |  [Beverages](#beverages)
+[Appetizer](#appetizer) | [soup](#Soup) | [Salad](#salad) | |[Dessert](#Dessert) |  [Beverages](#beverages)
 
 ## Appetizer
 | Name                    | Description                                                                                                                                                               | Image                                                      | Price |
@@ -11,6 +11,16 @@
 | **Carrot Crêpes**       | A colorful and vegetal take on the classic crêpe, these thin, alluring pancakes will impress your party guests with their subtle sweetness and sunny orange hue.          | <img src="./images/Appetizer/carrot_crapes.jpg" width=600> |   100 |
 | **Duck Pâté en Croûte** | Flaky homemade pastry dough and top it with a flavorful gelée                                                                                                             | <img src="./images/Appetizer/duck.jpg" width=600>          |   200 |
 
+## Soup
+| Name                              | Description                                                                                                              |                                               | Price |
+|:----------------------------------|:-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|------:|
+| **French Onion Soup**             | A rich and savory soup with caramelized onions, topped with melted cheese and served with crusty bread.                  | <img src="images/Soup/soup1.png" width="600"> |   120 |
+| **Creamy Butternut Squash Soup**  | A velvety blend of roasted butternut squash, cream, and spices.                                                          | <img src="images/Soup/soup2.png" width="600"> |   110 |
+| **Magical Leek Soup**             | A light and refreshing soup made with leeks, potatoes, and herbs.                                                        | <img src="images/Soup/soup3.png" width="600"> |    90 |
+| **French Lentil Soup**            | A hearty and nutritious soup with green lentils, vegetables, and a touch of herbs.                                       | <img src="images/Soup/soup4.png" width="600"> |   100 |
+| **Broccoli and Blue Cheese Soup** | A creamy soup with broccoli and tangy blue cheese for a bold taste.                                                      | <img src="images/Soup/soup5.png" width="600"> |   115 |
+| **Fancy Cream of Cauliflower**    | A silky-smooth cauliflower soup garnished with fresh herbs and a drizzle of olive oil.                                   | <img src="images/Soup/soup6.png" width="600"> |   105 |
+| **Ratatouille Soup**              | A chunky vegetable soup inspired by the classic French ratatouille.                                                      | <img src="images/Soup/soup7.png" width="600"> |   120 |
 
 ## Salad
 <br>
@@ -35,3 +45,6 @@
 
 
 ## Beverages
+
+> A table of beverages. Each team member adds one beverage (one row) to the table.
+> Result should be in alphabetical order by beverage name.
