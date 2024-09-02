@@ -18,3 +18,7 @@
 
 > A table of beverages. Each team member adds one beverage (one row) to the table.
 > Result should be in alphabetical order by beverage name.
+
+| Name    | Description                                                                                                                                        |                                             | Price |
+|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|------:|
+| **Kir** | A classic French cocktail made with dry white wine and a splash of crème de cassis, a blackcurrant liqueur, offering a sweet and refreshing taste. | <img src="images/Soup/kir.jpg" width="600"> |   250 |
