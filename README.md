@@ -1,11 +1,12 @@
-# Name of Your Cafe
+# Dotcom cafe
 
-Write a one or two sentence description of your cafe.
+French restaurant with cozy atmosphere and friendly price.
 
 ## [Menu](menu.md)
 
 | Cuisine                  | Contributor |
-|:-------------------------|-------------|
-| [Soup](menu.md#Soup)     | Nichapat    |
-| [Salad](menu.md#salad)   | Parima      |
-| [Entree](menu.md#Entree) | Thanchida   |
+|:-------------------------------|-------------|
+| [Appetizer](menu.md#Appetizer) | Panida      |
+| [Soup](menu.md#Soup)           | Nichapat    |
+| [Salad](menu.md#salad)         | Parima      |
+| [Entree](menu.md#Entree)       | Thanchida   |
