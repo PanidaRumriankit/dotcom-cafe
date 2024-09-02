@@ -16,5 +16,7 @@
 
 ## Beverages
 
-> A table of beverages. Each team member adds one beverage (one row) to the table.
-> Result should be in alphabetical order by beverage name.
+| Name              | Description                                                                                                                                                                                                                                                                                                          |                                              | Price |
+|:------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|------:|
+| **Aperol Spritz** | Aperol is a bright orange, bittersweet apéritif liqueur with a low (11%) alcohol content. Aperol, like other apéritifs, is meant to stimulate the appetite and is typically consumed before dinner.                                                                                                                  | <img src="images/Salad/drink.png" width=600> |   900 |
+
